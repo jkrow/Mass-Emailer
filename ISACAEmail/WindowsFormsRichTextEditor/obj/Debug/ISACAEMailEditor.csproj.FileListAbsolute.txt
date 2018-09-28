@@ -1,0 +1,92 @@
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\Data.dll
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\EPPlus.dll
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ExcelDataReader.DataSet.dll
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ExcelDataReader.dll
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\GemBox.Document.dll
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\MarkupConverter.dll
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\Data.pdb
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\MarkupConverter.pdb
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ExcelDataReader.DataSet.xml
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ExcelDataReader.pdb
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ExcelDataReader.xml
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\EPPlus.xml
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\GemBox.Document.xml
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACAEMailEditor.csprojAssemblyReference.cache
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\WindowsFormsRichTextEditor.MainForm.resources
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACAEMailEditor.csproj.GenerateResource.cache
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACAEMailEditor.csproj.CoreCompileInputs.cache
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACAEMailEditor.csproj.CopyComplete
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACAMassEmailer.Resources.resources
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ISACA Mass Emailer.exe.config
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ISACA Mass Emailer.exe.manifest
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ISACA Mass Emailer.application
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ISACA Mass Emailer.exe
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ISACA Mass Emailer.pdb
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACA Mass Emailer.TrustInfo.xml
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACA Mass Emailer.exe.manifest
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACA Mass Emailer.application
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACA Mass Emailer.exe
+C:\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACA Mass Emailer.pdb
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ISACA Mass Emailer.exe.config
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ISACA Mass Emailer.exe.manifest
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ISACA Mass Emailer.application
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ISACA Mass Emailer.exe
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ISACA Mass Emailer.pdb
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\Data.dll
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\EPPlus.dll
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ExcelDataReader.dll
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\GemBox.Document.dll
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\MarkupConverter.dll
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\Data.pdb
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\MarkupConverter.pdb
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ExcelDataReader.pdb
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ExcelDataReader.xml
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\EPPlus.xml
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\GemBox.Document.xml
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACAEMailEditor.csprojAssemblyReference.cache
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\WindowsFormsRichTextEditor.MainForm.resources
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACAMassEmailer.Resources.resources
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACAEMailEditor.csproj.GenerateResource.cache
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACAEMailEditor.csproj.CoreCompileInputs.cache
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACA Mass Emailer.TrustInfo.xml
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACA Mass Emailer.exe.manifest
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACA Mass Emailer.application
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACAEMailEditor.csproj.CopyComplete
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACA Mass Emailer.exe
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACA Mass Emailer.pdb
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACAMassEmailer.UpdateMaster.resources
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ISACA Mass Emailer.exe.config
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ISACA Mass Emailer.exe.manifest
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ISACA Mass Emailer.application
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ISACA Mass Emailer.exe
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ISACA Mass Emailer.pdb
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\Data.dll
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\EPPlus.dll
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ExcelDataReader.dll
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\GemBox.Document.dll
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\MarkupConverter.dll
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\Data.pdb
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\MarkupConverter.pdb
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ExcelDataReader.pdb
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\ExcelDataReader.xml
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\EPPlus.xml
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\bin\Debug\GemBox.Document.xml
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACAEMailEditor.csprojAssemblyReference.cache
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\WindowsFormsRichTextEditor.MainForm.resources
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACAMassEmailer.Resources.resources
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACAMassEmailer.UpdateMaster.resources
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACAEMailEditor.csproj.GenerateResource.cache
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACAEMailEditor.csproj.CoreCompileInputs.cache
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACA Mass Emailer.TrustInfo.xml
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACA Mass Emailer.exe.manifest
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACA Mass Emailer.application
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACAEMailEditor.csproj.CopyComplete
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACA Mass Emailer.exe
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\WindowsFormsRichTextEditor\obj\Debug\ISACA Mass Emailer.pdb
