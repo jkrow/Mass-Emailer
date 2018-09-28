@@ -1,0 +1,41 @@
+I:\Isaca\ISACA Board\email code\ISACAEmail\Data\bin\Debug\Data.dll
+I:\Isaca\ISACA Board\email code\ISACAEmail\Data\bin\Debug\Data.pdb
+I:\Isaca\ISACA Board\email code\ISACAEmail\Data\obj\Debug\Data.csprojAssemblyReference.cache
+I:\Isaca\ISACA Board\email code\ISACAEmail\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+I:\Isaca\ISACA Board\email code\ISACAEmail\Data\obj\Debug\Data.dll
+I:\Isaca\ISACA Board\email code\ISACAEmail\Data\obj\Debug\Data.pdb
+I:\Isaca\ISACA Board\email code\ISACAEmail\Data\bin\Debug\System.Net.Http.dll
+I:\Isaca\ISACA Board\email code\ISACAEmail\Data\obj\Debug\Data.csproj.CopyComplete
+I:\Isaca\ISACA Board\email code\final\ISACAEmail\Data\bin\Debug\Data.dll
+I:\Isaca\ISACA Board\email code\final\ISACAEmail\Data\bin\Debug\Data.pdb
+I:\Isaca\ISACA Board\email code\final\ISACAEmail\Data\bin\Debug\System.Net.Http.dll
+I:\Isaca\ISACA Board\email code\final\ISACAEmail\Data\obj\Debug\Data.csprojAssemblyReference.cache
+I:\Isaca\ISACA Board\email code\final\ISACAEmail\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+I:\Isaca\ISACA Board\email code\final\ISACAEmail\Data\obj\Debug\Data.csproj.CopyComplete
+I:\Isaca\ISACA Board\email code\final\ISACAEmail\Data\obj\Debug\Data.dll
+I:\Isaca\ISACA Board\email code\final\ISACAEmail\Data\obj\Debug\Data.pdb
+C:\final\ISACAEmail\Data\bin\Debug\Data.dll
+C:\final\ISACAEmail\Data\bin\Debug\Data.pdb
+C:\final\ISACAEmail\Data\bin\Debug\System.Net.Http.dll
+C:\final\ISACAEmail\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\final\ISACAEmail\Data\obj\Debug\Data.csproj.CopyComplete
+C:\final\ISACAEmail\Data\obj\Debug\Data.dll
+C:\final\ISACAEmail\Data\obj\Debug\Data.pdb
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\Data\bin\Debug\Data.dll
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\Data\bin\Debug\Data.pdb
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\Data\bin\Debug\System.Net.Http.dll
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\Data\bin\Debug\System.Net.Http.xml
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\Data\obj\Debug\Data.csprojAssemblyReference.cache
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\Data\obj\Debug\Data.csproj.CopyComplete
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\Data\obj\Debug\Data.dll
+D:\Isaca\Isaca Chapter 2\final\ISACAEmail\Data\obj\Debug\Data.pdb
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\Data\bin\Debug\Data.dll
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\Data\bin\Debug\Data.pdb
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\Data\bin\Debug\System.Net.Http.dll
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\Data\bin\Debug\System.Net.Http.xml
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\Data\obj\Debug\Data.dll
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\Data\obj\Debug\Data.pdb
+C:\Users\jkrogulski\Desktop\final\ISACAEmail\Data\obj\Debug\Data.csprojAssemblyReference.cache

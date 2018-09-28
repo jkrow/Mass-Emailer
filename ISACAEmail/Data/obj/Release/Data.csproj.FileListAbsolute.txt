@@ -1,0 +1,7 @@
+C:\final\ISACAEmail\Data\bin\Release\Data.dll
+C:\final\ISACAEmail\Data\bin\Release\Data.pdb
+C:\final\ISACAEmail\Data\bin\Release\System.Net.Http.dll
+C:\final\ISACAEmail\Data\obj\Release\Data.csproj.CoreCompileInputs.cache
+C:\final\ISACAEmail\Data\obj\Release\Data.csproj.CopyComplete
+C:\final\ISACAEmail\Data\obj\Release\Data.dll
+C:\final\ISACAEmail\Data\obj\Release\Data.pdb
